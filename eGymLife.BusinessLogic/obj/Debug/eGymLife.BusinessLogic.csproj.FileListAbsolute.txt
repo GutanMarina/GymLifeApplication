@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\bin\Debug\eGymLife.BusinessLogic.dll
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\bin\Debug\eGymLife.BusinessLogic.pdb
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\bin\Debug\eGymLife.Domain.dll
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\bin\Debug\eGymLife.Helpers.dll
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\bin\Debug\eGymLife.Domain.pdb
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\bin\Debug\eGymLife.Helpers.pdb
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\obj\Debug\eGymLife.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\obj\Debug\eGymLife.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\obj\Debug\eGymLife.D35F2BDB.Up2Date
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\obj\Debug\eGymLife.BusinessLogic.dll
+C:\Users\user\source\repos\eGymLife\eGymLife.BusinessLogic\obj\Debug\eGymLife.BusinessLogic.pdb

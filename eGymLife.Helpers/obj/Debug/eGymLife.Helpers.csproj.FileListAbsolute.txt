@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\eGymLife\eGymLife.Helpers\bin\Debug\eGymLife.Helpers.dll
+C:\Users\user\source\repos\eGymLife\eGymLife.Helpers\bin\Debug\eGymLife.Helpers.pdb
+C:\Users\user\source\repos\eGymLife\eGymLife.Helpers\obj\Debug\eGymLife.Helpers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\eGymLife\eGymLife.Helpers\obj\Debug\eGymLife.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\eGymLife\eGymLife.Helpers\obj\Debug\eGymLife.Helpers.dll
+C:\Users\user\source\repos\eGymLife\eGymLife.Helpers\obj\Debug\eGymLife.Helpers.pdb
