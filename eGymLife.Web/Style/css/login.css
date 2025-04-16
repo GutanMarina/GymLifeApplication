@@ -12,7 +12,7 @@
     height: 100vh;
     width: 100%;
     background: url('/Style/img/hero/hol4.jpg');
-    background-size:1300px;
+    background-size:cover;
     display: flex;
     align-items: center;
     justify-content: center;
